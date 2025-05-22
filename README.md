@@ -4,7 +4,7 @@
  2.npx prisma studio
  <!-- lệnh 3 giúp chạy trang web, sau khi chạy truy cập http://localhost:3000/ để vào trang -->
  3.pnpm dev
-
+npx prisma studio
 
 
 
